@@ -1,14 +1,16 @@
-baseURL = 'https://ornata.mikewgruz.workers.dev'
+baseURL = 'https://www.terrapeneornata.com'
 languageCode = 'en-us'
 title = 'Terrapene Ornata'
 theme = 'paper'
 
+[params]
 # social icons
-bluesky = 'mikegruz'
-mastodon = '@mikegruz@mstdn.social'
+bluesky = 'mikegruz.bsky.social'
+mastodon = 'https://mstdn.social/@mikegruz'
+rss = true
 
 # home page
 name = 'Mike Gruszczynski'
-bio = 'Professor, Birder, Native Plant Enthusiast, Experimental Music Dabbler'
+bio = 'Academic, Birder, Native Plant Enthusiast, Experimental Music Dabbler'
 
 monoDarkIcon = true

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terrapene Ornata</title>
-    <link>https://ornata.mikewgruz.workers.dev/</link>
+    <link>https://www.terrapeneornata.com/</link>
     <description>Recent content on Terrapene Ornata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Dec 2025 15:33:09 -0500</lastBuildDate>
-    <atom:link href="https://ornata.mikewgruz.workers.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.terrapeneornata.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Terrapene Ornata</title>
-      <link>https://ornata.mikewgruz.workers.dev/posts/hello/</link>
+      <title>Terrapene Ornata</title>
+      <link>https://www.terrapeneornata.com/posts/hello/</link>
       <pubDate>Mon, 08 Dec 2025 15:33:09 -0500</pubDate>
-      <guid>https://ornata.mikewgruz.workers.dev/posts/hello/</guid>
+      <guid>https://www.terrapeneornata.com/posts/hello/</guid>
       <description>This is a post written by Mike.</description>
     </item>
   </channel>
