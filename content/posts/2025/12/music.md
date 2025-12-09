@@ -1,7 +1,8 @@
 +++
 title = 'December 2025 Listenings'
 date = 2025-12-08T21:11:52-05:00
-draft = true
+draft = false
+tags = ['music','listenings']
 +++
 
 Helena Gough
